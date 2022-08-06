@@ -150,7 +150,7 @@
     "yargs": "^3.10.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node src/app.js"
   },
   "author": "",
   "license": "ISC"
